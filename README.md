@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# Software-Engineering-WhatsApp
-=======
+
+# Software-Engineering-Twitter
+
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
 
 
